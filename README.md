@@ -1,116 +1,149 @@
-<!-- ===================== HEADER ===================== -->
+<!-- =============================== HEADER =============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b5e20,50:2e7d32,100:66bb6a&height=230&section=header&text=Sujan%20Chapagain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Crop%20Protection%20%C2%B7%20Plant%20Pathology%20%C2%B7%20Agricultural%20Data%20Science&descSize=18&descAlignY=60&animation=fadeIn" alt="Sujan Chapagain" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d12,45:2e7d32,100:81c784&height=240&section=header&text=Sujan%20Chapagain&fontSize=54&fontColor=ffffff&fontAlignY=38&fontFamily=Open%20Sans&desc=Crop%20Protection%20%C2%B7%20Plant%20Pathology%20%C2%B7%20Agricultural%20Data%20Science&descSize=18&descAlignY=60&animation=fadeIn" alt="Sujan Chapagain" width="100%"/>
 
 <a href="https://github.com/sujan4445">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2E7D32&center=true&vCenter=true&width=720&lines=Data-driven+researcher+in+plant+health;Molecular+diagnostics+%26+disease+management;Mixed+models+%7C+PCA+%7C+MGIDI+in+R+%26+Python;Open+science+for+agricultural+research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=22&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=900&height=44&lines=Data-driven+researcher+in+plant+health;Molecular+diagnostics+%26+disease+management;Mixed+models+%C2%B7+PCA+%C2%B7+MGIDI+in+R+and+Python;Open+science+for+agricultural+research" alt="Animated tagline"/>
 </a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/sujan-chapagain-240617140/"><img src="https://img.shields.io/badge/LinkedIn-Sujan_Chapagain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/sujan4445"><img src="https://img.shields.io/badge/GitHub-sujan4445-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:chapagainsujan45@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sujan4445&label=Profile+views&color=2e7d32&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/sujan4445?label=Followers&style=flat-square&color=2e7d32&logo=github" alt="Followers"/>
+<a href="https://www.linkedin.com/in/sujan-chapagain-240617140/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn"/></a>&nbsp;<a href="https://www.linkedin.com/in/sujan-chapagain-240617140/"><b>LinkedIn</b></a>
+&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sujan4445"><img src="https://cdn.simpleicons.org/github/181717" width="22" height="22" alt="GitHub"/></a>&nbsp;<a href="https://github.com/sujan4445"><b>GitHub</b></a>
+&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
+<a href="mailto:chapagainsujan45@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email"/></a>&nbsp;<a href="mailto:chapagainsujan45@gmail.com"><b>Email</b></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:66bb6a,100:ffffff&height=4" width="100%" alt=""/>
 
 ## 🌿 About Me
 
-I'm a researcher working at the intersection of **crop protection**, **plant health**, and **sustainable agriculture**. My focus is molecular diagnostics and disease management, with a particular interest in citrus research.
+I am a researcher working at the intersection of **crop protection**, **plant health** and **sustainable agriculture**. My work centers on **molecular diagnostics** and **disease management**, with a particular focus on **citrus research**.
 
-I combine hands-on field and greenhouse experimentation with statistical modeling and reproducible computational pipelines in **R** and **Python** to tackle real agricultural problems.
+I pair hands-on field and greenhouse experimentation with statistical modeling and reproducible computational pipelines in **R** and **Python**, so that every result can be traced from the plot to the p-value.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🔬 Research</h3>
-      Plant pathology, crop protection, molecular diagnostics, and disease epidemiology.
+    <td width="33%" valign="top" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ec.svg" width="44" alt="DNA"/>
+      <h3>Research</h3>
+      Plant pathology, crop protection, molecular diagnostics and disease epidemiology.
     </td>
-    <td width="33%" valign="top">
-      <h3>📊 Data Science</h3>
-      Mixed-effects models (REML/BLUP), PCA, clustering, and multi-trait selection indices (MGIDI).
+    <td width="33%" valign="top" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4ca.svg" width="44" alt="Chart"/>
+      <h3>Data Science</h3>
+      Mixed-effects models (REML/BLUP), PCA, clustering and multi-trait selection indices (MGIDI).
     </td>
-    <td width="33%" valign="top">
-      <h3>🤝 Community</h3>
+    <td width="33%" valign="top" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg" width="44" alt="Handshake"/>
+      <h3>Community</h3>
       Open science advocate sharing analytical frameworks and R workflows with students and researchers.
     </td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:66bb6a,100:ffffff&height=4" width="100%" alt=""/>
 
-## 🧬 Fields of Expertise
+## 🔄 How I Work
 
-| 🛡️ Plant Protection | 🌱 Plant Breeding | 🧮 Statistical Genetics | 🤖 Agricultural Data Science |
-| :--- | :--- | :--- | :--- |
-| Crop disease management, epidemiology, and diagnostics | Phenotypic characterization, trait evaluation, and breeding trials | REML/BLUP modeling, PCA, clustering, and multivariate genetics | Reproducible pipelines, automated R workflows, and data visualization |
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#e8f5e9','primaryTextColor':'#1b5e20','primaryBorderColor':'#2e7d32','lineColor':'#43a047','fontFamily':'Open Sans, Segoe UI, Arial, sans-serif'}}}%%
+flowchart LR
+    A["🌱 Field & Greenhouse<br/>Controlled experiments<br/>on plant protection"] --> B["🧬 Diagnostics<br/>Molecular detection and<br/>disease characterization"]
+    B --> C["📊 Modeling<br/>REML/BLUP, PCA, clustering,<br/>MGIDI in R and Python"]
+    C --> D["🤝 Open Science<br/>Reproducible pipelines<br/>shared with the community"]
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:66bb6a,100:ffffff&height=4" width="100%" alt=""/>
 
-## 🛠️ Tools & Technologies
+## 🧪 Fields of Expertise
+
+<table>
+  <tr>
+    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f33f.svg" width="30" alt=""/><br/>Plant Protection</th>
+    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f331.svg" width="30" alt=""/><br/>Plant Breeding</th>
+    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ee.svg" width="30" alt=""/><br/>Statistical Genetics</th>
+    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4bb.svg" width="30" alt=""/><br/>Agricultural Data Science</th>
+  </tr>
+  <tr>
+    <td valign="top">Crop disease management, epidemiology and molecular diagnostics.</td>
+    <td valign="top">Phenotypic characterization, trait evaluation and breeding trials.</td>
+    <td valign="top">REML/BLUP modeling, PCA, clustering and multivariate genetics.</td>
+    <td valign="top">Reproducible pipelines, automated R workflows and data visualization.</td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:66bb6a,100:ffffff&height=4" width="100%" alt=""/>
+
+## 🛠️ Toolbox
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=r,py,git,github,vscode,md&theme=light" alt="Tech stack icons"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-
+<table>
+  <tr>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="52" height="52" alt="R"/><br/><b>R</b></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="52" height="52" alt="RStudio"/><br/><b>RStudio</b></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><b>Python</b></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" alt="Git"/><br/><b>Git</b></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="52" alt="GitHub"/><br/><b>GitHub</b></td>
+  </tr>
+</table>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:66bb6a,100:ffffff&height=4" width="100%" alt=""/>
 
-## 📈 Technical Competencies
+## 📐 Technical Competencies
 
-- **Statistical Modeling:** Univariate and multivariate statistics, linear mixed models (REML/BLUP), PCA, factor analysis, hierarchical clustering, and MGIDI index selection.
-- **Experimental Research:** Designing and conducting controlled field and greenhouse experiments on plant protection, disease progression, and sustainable crop production.
-- **Open Science:** Building automated data pipelines and sharing open-source R code with the agricultural research community.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Statistical Modeling</h4>
+      Univariate and multivariate statistics, linear mixed models (REML/BLUP), principal component analysis, factor analysis, hierarchical clustering and MGIDI index selection.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Experimental Research</h4>
+      Designing and conducting controlled field and greenhouse experiments on plant protection, disease progression and sustainable crop production.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Open Science</h4>
+      Building automated data pipelines and sharing open-source R code with the agricultural research community.
+    </td>
+  </tr>
+</table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sujan4445&show_icons=true&hide_border=true&bg_color=0,ffffff,f1f8e9&title_color=1b5e20&icon_color=2e7d32&text_color=33691e&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan4445&layout=compact&hide_border=true&bg_color=0,ffffff,f1f8e9&title_color=1b5e20&text_color=33691e" alt="Top languages"/>
+<details>
+<summary><b>What do these methods do? (click to expand)</b></summary>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujan4445&hide_border=true&background=f1f8e9&ring=2e7d32&fire=43a047&currStreakLabel=1b5e20&sideLabels=33691e&currStreakNum=1b5e20&sideNums=33691e&dates=558b2f" alt="GitHub streak"/>
+| Method | Purpose in agricultural research |
+| :-- | :-- |
+| **REML / BLUP** | Separates genetic and environmental effects in unbalanced field trials and predicts the true performance of each genotype. |
+| **PCA** | Reduces many correlated traits to a few components so patterns between genotypes or treatments become visible. |
+| **Hierarchical clustering** | Groups genotypes or treatments with similar profiles, for example to identify resistant versus susceptible material. |
+| **Factor analysis** | Finds the latent factors that explain relationships among measured traits. |
+| **MGIDI** | Ranks genotypes on many traits at once with a single multi-trait index, which makes selection decisions more objective. |
 
-</div>
+</details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:66bb6a,100:ffffff&height=4" width="100%" alt=""/>
 
-## 📬 Contact
+## 📬 Let's Connect
 
 <div align="center">
 
-| Platform | Link |
-| :---: | :--- |
-| <img src="https://skillicons.dev/icons?i=linkedin" width="28"/> | [linkedin.com/in/sujan-chapagain-240617140](https://www.linkedin.com/in/sujan-chapagain-240617140/) |
-| <img src="https://skillicons.dev/icons?i=github" width="28"/> | [github.com/sujan4445](https://github.com/sujan4445) |
-| <img src="https://skillicons.dev/icons?i=gmail" width="28"/> | [chapagainsujan45@gmail.com](mailto:chapagainsujan45@gmail.com) |
+<a href="https://www.linkedin.com/in/sujan-chapagain-240617140/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sujan4445"><img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:chapagainsujan45@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/></a>
 
 <br/>
 
-*Open to collaborations in plant protection, agricultural statistics, and open-science workflows.*
+<sub>Open to collaborations in plant protection, agricultural statistics and open-science workflows.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66bb6a,50:2e7d32,100:1b5e20&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:81c784,55:2e7d32,100:0b3d12&height=130&section=footer&reversal=true" width="100%" alt=""/>
