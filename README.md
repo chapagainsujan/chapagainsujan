@@ -47,38 +47,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 
 
-##  How I Work
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" valign="top" width="180">
-      <img src="https://wsrv.nl/?url=images.unsplash.com/photo-1763477892923-c3fee1a33533%3Fw%3D700%26q%3D75&w=240&h=240&fit=cover&mask=circle&output=png" width="150" height="150" alt="Citrus orchard"/>
-      <br/><b>1 · Field &amp; Greenhouse</b>
-      <br/><sub>Controlled experiments on<br/>plant protection in citrus</sub>
-    </td>
-    <td align="center" valign="middle"><h2>➜</h2></td>
-    <td align="center" valign="top" width="180">
-      <img src="https://wsrv.nl/?url=images.unsplash.com/photo-1633167606207-d840b5070fc2%3Fw%3D700%26q%3D75&w=240&h=240&fit=cover&mask=circle&output=png" width="150" height="150" alt="DNA helix"/>
-      <br/><b>2 · Diagnostics</b>
-      <br/><sub>Molecular detection and<br/>disease characterization</sub>
-    </td>
-    <td align="center" valign="middle"><h2>➜</h2></td>
-    <td align="center" valign="top" width="180">
-      <img src="https://wsrv.nl/?url=images.unsplash.com/photo-1758573728869-d25eb4bafb67%3Fw%3D700%26q%3D75&w=240&h=240&fit=cover&mask=circle&output=png" width="150" height="150" alt="Wheat field"/>
-      <br/><b>3 · Modeling &amp; Selection</b>
-      <br/><sub>REML/BLUP, GWAS, QTL,<br/>genomic selection, MGIDI</sub>
-    </td>
-    <td align="center" valign="middle"><h2>➜</h2></td>
-    <td align="center" valign="top" width="180">
-      <img src="https://wsrv.nl/?url=images.unsplash.com/photo-1564869115811-96da66f0557f%3Fw%3D700%26q%3D75&w=240&h=240&fit=cover&mask=circle&output=png" width="150" height="150" alt="Rice terraces"/>
-      <br/><b>4 · Open Science</b>
-      <br/><sub>Reproducible pipelines shared<br/>with the community</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
 ## 🛠️ Toolbox
 
 <div align="center">
