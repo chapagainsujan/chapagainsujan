@@ -20,7 +20,7 @@
 
 </div>
 
-## 🌱 About Me
+## About Me
 
 I am a researcher working at the intersection of **crop protection**, **plant genomics** and **sustainable agriculture**. My work centers on **molecular diagnostics** and **disease management**, with a particular focus on **citrus research**, and extends to cereal crops such as **wheat** and **rice**.
 
@@ -47,7 +47,7 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 
 
-## 🔄 How I Work
+##  How I Work
 
 <div align="center">
 <table>
@@ -79,7 +79,7 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 </div>
 
-## 🧪 Fields of Expertise
+##  Fields of Expertise
 
 <table>
   <tr>
@@ -97,43 +97,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 
 
-## 📄 Research Results &amp; Papers
-
-> Replace the bracketed text in each card with your own paper details, then delete this line.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f34a.svg" width="34" alt="Citrus"/>
-      <br/><b>[Paper title on citrus disease]</b>
-      <br/><sub>[Journal] · [Year]</sub>
-      <br/><br/>[One-sentence key result.]
-      <br/><br/>📎 <a href="#">Read paper</a>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f33e.svg" width="34" alt="Wheat"/>
-      <br/><b>[Paper title on wheat or rice genetics]</b>
-      <br/><sub>[Journal] · [Year]</sub>
-      <br/><br/>[One-sentence key result.]
-      <br/><br/>📎 <a href="#">Read paper</a>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ec.svg" width="34" alt="DNA"/>
-      <br/><b>[Paper title on methods or genomics]</b>
-      <br/><sub>[Journal] · [Year]</sub>
-      <br/><br/>[One-sentence key result.]
-      <br/><br/>📎 <a href="#">Read paper</a>
-    </td>
-  </tr>
-</table>
-
-<!--
-  Want Scholar / ORCID / ResearchGate buttons? Uncomment and add your links:
-
-  <p align="center">
-    <a href="YOUR_SCHOLAR_URL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26"/> Google Scholar</a>
-  </p>
--->
 
 ## 🛠️ Toolbox
 
@@ -171,7 +134,7 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 
 <details>
-<summary><b>🧬 What do these methods do? (click to expand)</b></summary>
+<summary><b> What do these methods do? (click to expand)</b></summary>
 
 <br/>
 
@@ -189,7 +152,7 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </details>
 
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -202,10 +165,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 <br/>
 
 <sub>Open to collaborations in plant protection, plant genomics, agricultural statistics and open-science workflows.</sub>
-
-<br/><br/>
-
-<sub>Photos from <a href="https://unsplash.com">Unsplash</a>: Bruno Aguirre (citrus), Omar Abozeid (wheat), Alana Harris (rice), and a DNA helix image.</sub>
 
 </div>
 
