@@ -17,14 +17,11 @@
 
 <br/><br/>
 
-
 </div>
 
 ## About Me
 
-I am a researcher working at the intersection of **crop protection**, **plant genomics** and **sustainable agriculture**. My work centers on **molecular diagnostics** and **disease management**, with a particular focus on **citrus research**, and extends to cereal crops such as **wheat** and **rice**.
-
-I pair hands-on field and greenhouse experimentation with statistical genetics and reproducible computational pipelines in **R** and **Python**, so that every result can be traced from the plot to the p-value.
+I am a researcher working at the intersection of **crop protection**, **plant genomics** and **sustainable agriculture**. My work centers on **molecular diagnostics** and **disease management**, with a particular focus on **citrus research**, and extends to cereal crops such as **wheat** and **rice**. I pair hands-on field and greenhouse experimentation with statistical genetics and reproducible computational pipelines in **R** and **Python**, so that every result can be traced from the plot to the p-value.
 
 <table>
   <tr>
@@ -47,7 +44,7 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 
 
-## 🛠️ Toolbox
+## Toolbox
 
 <div align="center">
 <table>
@@ -63,7 +60,7 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 
 
 
-## 📐 Technical Competencies
+## Technical Competencies
 
 <table>
   <tr>
@@ -81,8 +78,5 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
     </td>
   </tr>
 </table>
-
-<details>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e8590c,45:1c4e80,100:0b132b&height=90&section=footer" width="100%" alt=""/>
