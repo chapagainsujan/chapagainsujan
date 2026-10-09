@@ -79,25 +79,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 </div>
 
-##  Fields of Expertise
-
-<table>
-  <tr>
-    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9a0.svg" width="32" alt=""/><br/>Plant Protection</th>
-    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f33e.svg" width="32" alt=""/><br/>Plant Breeding</th>
-    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ec.svg" width="32" alt=""/><br/>Statistical Genetics</th>
-    <th align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4ca.svg" width="32" alt=""/><br/>Agricultural Data Science</th>
-  </tr>
-  <tr>
-    <td valign="top">Crop disease management, epidemiology and molecular diagnostics.</td>
-    <td valign="top">Phenotypic characterization, trait evaluation and breeding trials.</td>
-    <td valign="top">REML/BLUP, GWAS, QTL mapping, genomic selection, PCA and clustering.</td>
-    <td valign="top">Reproducible pipelines, automated R workflows and data visualization.</td>
-  </tr>
-</table>
-
-
-
 ## 🛠️ Toolbox
 
 <div align="center">
