@@ -83,38 +83,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 
 <details>
-<summary><b> What do these methods do? (click to expand)</b></summary>
-
-<br/>
-
-| Method | Purpose in agricultural research |
-| :-- | :-- |
-| **REML / BLUP** | Separates genetic and environmental effects in unbalanced field trials and predicts the true performance of each genotype. |
-| **GWAS** | Genome-wide association study. Tests thousands of DNA markers (SNPs) across a diverse panel to find those associated with a trait such as disease resistance or yield, while correcting for population structure and relatedness. |
-| **QTL mapping** | Links markers to trait variation in a biparental or segregating population (for example RILs or F2) to locate the chromosome regions, called quantitative trait loci, that control a trait. |
-| **Genomic selection** | Trains a model on lines that have both genotype and phenotype data, then predicts genomic breeding values for lines that have only genotypes, so superior parents can be chosen earlier and cheaper. |
-| **PCA** | Reduces many correlated traits to a few components so patterns between genotypes or treatments become visible. |
-| **Hierarchical clustering** | Groups genotypes or treatments with similar profiles, for example to identify resistant versus susceptible material. |
-| **Factor analysis** | Finds the latent factors that explain relationships among measured traits. |
-| **MGIDI** | Ranks genotypes on many traits at once with a single multi-trait index, which makes selection decisions more objective. |
-
-</details>
-
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sujan-chapagain-240617140/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sujan4445"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:chapagainsujan45@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email"/></a>
-
-<br/>
-
-<sub>Open to collaborations in plant protection, plant genomics, agricultural statistics and open-science workflows.</sub>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e8590c,45:1c4e80,100:0b132b&height=90&section=footer" width="100%" alt=""/>
