@@ -1,44 +1,62 @@
 <!-- =============================== HEADER =============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,55:1c4e80,100:e8590c&height=210&section=header&text=Sujan%20Chapagain&fontSize=52&fontColor=ffffff&fontAlignY=42&fontFamily=Open%20Sans&desc=Crop%20Protection%20%C2%B7%20Plant%20Genomics%20%C2%B7%20Agricultural%20Data%20Science&descSize=18&descAlignY=66" alt="Sujan Chapagain" width="100%"/>
+  <!-- Dynamic Animated SVG Header Banner with DNA/Genomics Aesthetics -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Sujan%20Chapagain&fontSize=48&fontColor=ffffff&fontAlignY=38&fontFamily=Fira%20Code&desc=Crop%20Protection%20%7C%20Plant%20Genomics%20%7C%20Agricultural%20Data%20Science&descSize=16&descAlignY=58" alt="Sujan Chapagain Header Banner" width="100%"/>
 
-<a href="https://github.com/sujan4445">
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=22&duration=3000&pause=1000&color=1C4E80&center=true&vCenter=true&width=900&height=44&lines=Data-driven+researcher+in+plant+health;Citrus+%C2%B7+Wheat+%C2%B7+Rice;GWAS+%C2%B7+QTL+Mapping+%C2%B7+Genomic+Selection;Molecular+diagnostics+%26+disease+management;Open+science+for+agricultural+research" alt="Animated tagline"/>
-</a>
+  <br/>
 
-<br/><br/>
+  <!-- Interactive Terminal/Coding Tagline -->
+  <a href="https://github.com/sujan4445">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=238636&center=true&vCenter=true&width=900&height=40&lines=system.run(%22Plant Health Diagnostics%22);GWAS+%7C+QTL+Mapping+%7C+Genomic+Selection;seq_align(Citrus%2C+Wheat%2C+Rice);%23+Reproducible+Data+Science+for+Agriculture" alt="Typing Tagline"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sujan-chapagain-240617140/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn"/></a>&nbsp;<a href="https://www.linkedin.com/in/sujan-chapagain-240617140/"><b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sujan4445"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub"/></a>&nbsp;<a href="https://github.com/sujan4445"><b>GitHub</b></a>
-&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
-<a href="mailto:chapagainsujan45@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" height="24" alt="Email"/></a>&nbsp;<a href="mailto:chapagainsujan45@gmail.com"><b>Email</b></a>
+  <br/><br/>
 
-<br/><br/>
+  <!-- Direct Contact & Social Links -->
+  <a href="https://www.linkedin.com/in/sujan-chapagain-240617140/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sujan4445">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chapagainsujan45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Dynamic Bioinformatics/Genomics Snippet Visual -->
+  <a href="https://github.com/sujan4445">
+    <img src="https://github-readme-terminal.vercel.app/api?title=genomics_pipeline.py&code=import%20biopython%20as%20bp%0A%0Adef%20analyze_plant_health(crop%2C%20data)%3A%0A%20%20%20%20traits%20%3D%20%5B%22GWAS%22%2C%20%22QTL_Mapping%22%2C%20%22Genomic_Selection%22%5D%0A%20%20%20%20return%20f%22%7Bcrop%7D%20diagnostics%20initialized.%20Pipeline%3A%20%7Btraits%7D%22%0A%0Aprint(analyze_plant_health(%22Citrus%22%2C%20raw_reads))&theme=dark" alt="Code Snippet" width="95%"/>
+  </a>
 
 </div>
 
+<br/>
+
 ## About Me
 
-I am a researcher working at the intersection of **crop protection**, **plant genomics** and **sustainable agriculture**. My work centers on **molecular diagnostics** and **disease management**, with a particular focus on **citrus research**, and extends to cereal crops such as **wheat** and **rice**. I pair hands-on field and greenhouse experimentation with statistical genetics and reproducible computational pipelines in **R** and **Python**, so that every result can be traced from the plot to the p-value.
+I am a researcher working at the intersection of **crop protection**, **plant genomics**, and **sustainable agriculture**. My work centers on **molecular diagnostics** and **disease management**, with a particular focus on **citrus research**, extending to cereal crops such as **wheat** and **rice**. I pair hands-on field and greenhouse experimentation with statistical genetics and reproducible computational pipelines in **R** and **Python**, so that every result can be traced from plot to p-value.
 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f52c.svg" width="44" alt="Microscope"/>
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f52c.svg" width="40" alt="Microscope"/>
       <h3>Research</h3>
-      Plant pathology, crop protection, molecular diagnostics and disease epidemiology.
+      Plant pathology, crop protection, molecular diagnostics, and disease epidemiology.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ec.svg" width="44" alt="DNA"/>
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9ec.svg" width="40" alt="DNA"/>
       <h3>Genomics &amp; Data</h3>
-      Mixed-effects models (REML/BLUP), GWAS, QTL mapping, genomic selection, PCA, clustering and MGIDI.
+      Mixed-effects models (REML/BLUP), GWAS, QTL mapping, genomic selection, PCA, and MGIDI.
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg" width="44" alt="Handshake"/>
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg" width="40" alt="Community"/>
       <h3>Community</h3>
-      Open science advocate sharing analytical frameworks and R workflows with students and researchers.
+      Open science advocate sharing analytical frameworks and R workflows with researchers.
     </td>
   </tr>
 </table>
@@ -47,17 +65,16 @@ I am a researcher working at the intersection of **crop protection**, **plant ge
 ## Toolbox
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="52" height="52" alt="R"/><br/><b>R</b></td>
-    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="52" height="52" alt="RStudio"/><br/><b>RStudio</b></td>
-    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" alt="Python"/><br/><b>Python</b></td>
-    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" alt="Git"/><br/><b>Git</b></td>
-    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="52" alt="GitHub"/><br/><b>GitHub</b></td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
 
 
 ## Technical Competencies
@@ -66,11 +83,11 @@ I am a researcher working at the intersection of **crop protection**, **plant ge
   <tr>
     <td width="33%" valign="top">
       <h4>Statistical &amp; Genomic Modeling</h4>
-      Univariate and multivariate statistics, linear mixed models (REML/BLUP), principal component analysis, factor analysis, hierarchical clustering, MGIDI index selection, GWAS, QTL mapping and genomic selection.
+      Univariate and multivariate statistics, linear mixed models (REML/BLUP), principal component analysis, factor analysis, hierarchical clustering, MGIDI index selection, GWAS, QTL mapping, and genomic selection.
     </td>
     <td width="33%" valign="top">
       <h4>Experimental Research</h4>
-      Designing and conducting controlled field and greenhouse experiments on plant protection, disease progression and sustainable crop production.
+      Designing and conducting controlled field and greenhouse experiments on plant protection, disease progression, and sustainable crop production.
     </td>
     <td width="33%" valign="top">
       <h4>Open Science</h4>
@@ -79,4 +96,12 @@ I am a researcher working at the intersection of **crop protection**, **plant ge
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e8590c,45:1c4e80,100:0b132b&height=90&section=footer" width="100%" alt=""/>
+<br/>
+
+<!-- =============================== FOOTER =============================== -->
+<div align="center">
+
+  <!-- Genome & Code Waves Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="Genomic Wave Footer"/>
+
+</div>
