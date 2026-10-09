@@ -17,7 +17,6 @@
 
 <br/><br/>
 
-🧬 &nbsp;&nbsp;&nbsp; 🌾 &nbsp;&nbsp;&nbsp; 🍊 &nbsp;&nbsp;&nbsp; 🌾 &nbsp;&nbsp;&nbsp; 🧬
 
 </div>
 
@@ -47,7 +46,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
   </tr>
 </table>
 
-<p align="center">🧬 ─────── 🌾 ─────── 🍊 ─────── 🌾 ─────── 🧬</p>
 
 ## 🔄 How I Work
 
@@ -81,8 +79,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 </div>
 
-<p align="center">🧬 ─────── 🌾 ─────── 🍊 ─────── 🌾 ─────── 🧬</p>
-
 ## 🧪 Fields of Expertise
 
 <table>
@@ -100,7 +96,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
   </tr>
 </table>
 
-<p align="center">🧬 ─────── 🌾 ─────── 🍊 ─────── 🌾 ─────── 🧬</p>
 
 ## 📄 Research Results &amp; Papers
 
@@ -140,8 +135,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
   </p>
 -->
 
-<p align="center">🧬 ─────── 🌾 ─────── 🍊 ─────── 🌾 ─────── 🧬</p>
-
 ## 🛠️ Toolbox
 
 <div align="center">
@@ -156,7 +149,7 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 </table>
 </div>
 
-<p align="center">🧬 ─────── 🌾 ─────── 🍊 ─────── 🌾 ─────── 🧬</p>
+
 
 ## 📐 Technical Competencies
 
@@ -195,7 +188,6 @@ I pair hands-on field and greenhouse experimentation with statistical genetics a
 
 </details>
 
-<p align="center">🧬 ─────── 🌾 ─────── 🍊 ─────── 🌾 ─────── 🧬</p>
 
 ## 📬 Let's Connect
 
