@@ -12,16 +12,7 @@
 
 ## About Me
 
-I am a researcher working at the intersection of **crop protection**, **plant genomics** and **sustainable agriculture**. My work centers on **molecular diagnostics** and **disease management**, with a particular focus on **citrus research**, and extends to cereal crops such as **wheat** and **rice**. I pair hands-on field and greenhouse experimentation with statistical genetics and reproducible computational pipelines in **R** and **Python**, so that every result can be traced from the plot to the p-value.
-
-```r
-researcher <- list(
-  name  = "Sujan Chapagain",
-  focus = c("crop protection", "plant genomics", "molecular diagnostics"),
-  crops = c("citrus", "wheat", "rice"),
-  tools = c("R", "Python", "Git")
-)
-```
+My research and coding lie at the intersection of crop protection, plant breeding, plant genomics, and sustainable agriculture. I combine hands-on field and greenhouse experimentation with statistical genetics and reproducible computational workflows in R and Python, connecting observations from the field to statistical evidence and translating complex results into clear, interpretable insights.
 
 <table>
   <tr>
