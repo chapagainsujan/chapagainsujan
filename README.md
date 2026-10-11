@@ -12,4 +12,4 @@
 
 ## About Me
 
-My research and coding lie at the intersection of crop protection, plant breeding, plant genomics, and sustainable agriculture. I combine hands-on field and greenhouse experimentation with statistical genetics and reproducible computational workflows in R and Python, connecting observations from the field to statistical evidence and translating complex results into clear, interpretable insights.
+My work at the intersection of crop protection, plant breeding, and genomics. I combine field experiments with reproducible R and Python analysis to turn data into clear insights.
