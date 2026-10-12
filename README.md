@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="brand.png" width="150"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Sujan Chapagain</h1>
 
